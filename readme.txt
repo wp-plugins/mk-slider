@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== MK Slider ===
 Contributors: Manoj Rana
 Tags: slide show, gallery, images, banner slider
 Requires at least: 3.0

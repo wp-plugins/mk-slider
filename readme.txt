@@ -1,3 +1,11 @@
+=== Plugin Name ===
+Contributors: Manoj Rana
+Tags: slide show, gallery, images, banner slider
+Requires at least: 3.0
+Tested up to: 3.0
+Stable tag: 1.0
+
+
 MK Slider :  This is banner functionality for automatically changing banner images. Images fade-out and fade-in. It also contains the thumbnails for navigating the images.
 
 Created By: Manoj Rana

@@ -17,5 +17,5 @@ Email : manoj_rana91986@live.com
 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
-3. Add the <?php if(function_exists('mk_slider')){mk_slider();} ?> code to your theme file where you 	   want the slider to appear.
+3. Add the &lt;?php if(function_exists('mk_slider')){mk_slider();} ?&gt; code to your theme file where you 	   want the slider to appear.
 

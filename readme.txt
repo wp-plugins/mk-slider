@@ -11,7 +11,7 @@ Banner Image Slider for Wordpress
 MK Slider :  This is banner functionality for automatically changing banner images. Images fade-out and fade-in. It also contains the thumbnails for navigating the images.
 
 Created By: Manoj Rana
-Email : manoj_rana91986@live.com
+Email : manoj.rana91986@gmail.com
 
 == Installation ==
 
